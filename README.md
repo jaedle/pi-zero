@@ -1,6 +1,6 @@
 # pi-zero
 
-**Forked from mygulamali/pi-zero:main for archive purposes!**
+**Forked from `mygulamali/pi-zero` for archive purposes!**
 
 [Ansible][ansible] based setup for my Raspberry Pi Zero.
 
